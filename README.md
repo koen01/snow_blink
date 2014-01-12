@@ -16,6 +16,8 @@ python python forecast.py 2 524901
 
 will blink the weather conditions in 3 days for Moscow 
 
-You can find a video of snow_blink in action here: http://www.youtube.com/watch?v=KrKYRV3Gcx8
+You can find a video of snow_blink in action here:
+http://www.youtube.com/watch?v=SlR7CdAKCbk
+
 
 
